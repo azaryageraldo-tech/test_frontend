@@ -58,6 +58,5 @@ const Login = () => {
     </div>
   )
 }
-username : admin
-password : admin123
+
 export default Login
